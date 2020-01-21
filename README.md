@@ -1,2 +1,2 @@
 # regex
-it's about regex
+it's ALL about regex
